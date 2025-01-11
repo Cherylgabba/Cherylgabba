@@ -7,7 +7,7 @@
 
 - 🤝 I’m ready to collaborate **with other developers to create unique products.**
 
-- 📫 How to reach me **cherylgabba04@gmail.com=**
+- 📫 How to reach me **cherylgabba04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
