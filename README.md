@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Cheryl Gabba</h1>
 <h3 align="center">Hi! I am Cheryl Gabba graduate in B.E. in Computer Science from Thapar University.I have a deep interest in Machine Learning, Deep Learning, Computer Vision and Problem Solving.</h3>
 
-- 🌱 I’m currently learning **I’m currently learning advanced Image processing and LLMs**
+- 🌱 I’m currently learning **advanced Image processing and LLMs**
 
 - 👯 I’m looking to collaborate on **Machine learning and deep learning projects**
 
