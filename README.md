@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Cheryl Gabba</h1>
-<h3 align="center">Hi! I am Cheryl Gabba currently pursuing B.E. in Computer Science from Thapar University.I have a deep interest in Machine Learning, Deep Learning, Computer Vision and Problem Solving.</h3>
+<h3 align="center">Hi! I am Cheryl Gabba graduate in B.E. in Computer Science from Thapar University.I have a deep interest in Machine Learning, Deep Learning, Computer Vision and Problem Solving.</h3>
 
-- 🌱 I’m currently learning **I’m currently learning advanced Image processing and NLP**
+- 🌱 I’m currently learning **I’m currently learning advanced Image processing and LLMs**
 
 - 👯 I’m looking to collaborate on **Machine learning and deep learning projects**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cheryl-gabba-640107247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cheryl-gabba-640107247/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/cherylgabba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/cherylgabba" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/cherylgabba" target="blank"><img align="center" src="https://www.kaggle.com/cherylgabba" alt="https://www.kaggle.com/cherylgabba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
